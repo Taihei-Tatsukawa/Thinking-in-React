@@ -1,3 +1,8 @@
+# 概要
+
+React.dev の Thinking in React を学習するためのリポジトリ<br>
+TS と vite を用いて実装してみる
+
 # Vite + React
 
 This is a [Vite](https://vitejs.dev) project together with React.
